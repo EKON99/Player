@@ -4,11 +4,11 @@
 <!--    Item color when selected -->
     <item
         android:state_selected="true"
-        android:color ="@color/accent"/>
+        android:color ="@color/white"/>
 
 <!--    Item color when not selected-->
     <item
         android:state_selected="false"
-        android:color ="@color/white"/>
+        android:color ="@color/accent"/>
 
 </selector>
