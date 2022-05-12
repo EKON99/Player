@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Player</string>
+    <string name="all_video">All Videos</string>
+    <string name="all_folders">All Folders</string>
 </resources>

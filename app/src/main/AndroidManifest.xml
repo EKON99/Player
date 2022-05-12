@@ -10,6 +10,7 @@
         android:roundIcon="@drawable/ic_icon"
         android:supportsRtl="true"
         android:theme="@style/Theme.Player">
+
         <activity
             android:name=".presentation.activity.MainActivity"
             android:exported="true">
