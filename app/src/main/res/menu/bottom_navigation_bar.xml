@@ -5,7 +5,7 @@
         android:title="@string/all_video"
         android:icon="@drawable/ic_video"/>
 
-    <item android:id="@+id/folder"
+    <item android:id="@+id/allFolder"
         android:title="@string/all_folders"
         android:icon="@drawable/ic_folder"/>
 
