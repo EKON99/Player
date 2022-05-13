@@ -67,9 +67,6 @@ dependencies {
     /** Appcompat libraries  */
     implementation 'androidx.appcompat:appcompat:1.4.1'
 
-    /** Support design dependency */
-    implementation 'com.android.support.design:26.1.0'
-
     /** Material design component*/
     implementation 'com.google.android.material:material:1.6.0'
 

@@ -1,4 +1,4 @@
-package com.example.player.data
+package com.example.player.di
 
 import android.content.Context
 import com.example.player.app.App
